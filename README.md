@@ -1,5 +1,8 @@
 # ETL & Data Orchestration With Mage
 
+![Mage](img/10934.jpg)
+![Alt Text](relative_path_to_image)
+
 **The goal is to construct an ETL pipeline that loads the data, performs some transformations, and writes the data to a database (and Google Cloud!).**
 
 1. Now lets create a batch new pipeline and name it green_taxi_etl
