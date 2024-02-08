@@ -1,7 +1,6 @@
 # ETL & Data Orchestration With Mage
 
-![Mage](img/10934.jpg)
-![Alt Text](relative_path_to_image)
+![Mage](10934.jpg)
 
 **The goal is to construct an ETL pipeline that loads the data, performs some transformations, and writes the data to a database (and Google Cloud!).**
 
@@ -204,4 +203,8 @@ def export_data(data, *args, **kwargs):
         filesystem=gcs
     )
 
-   ```     
+   ```
+
+![Mage](green_etl.png)
+
+
